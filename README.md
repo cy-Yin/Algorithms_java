@@ -6,7 +6,7 @@ Including:
 - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
-Using the **Java** language (completed through jdk-20.0.1, VScode in MacOS 10.15.7 Catalina)
+Using the **Java** language (completed through jdk-20.0.1, VSCode in MacOS 10.15.7 Catalina)
 
 ```shell
 ~ % java --version
@@ -16,6 +16,19 @@ Java HotSpot(TM) 64-Bit Server VM (build 20.0.1+9-29, mixed mode, sharing)
 ```
 
 *This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.*
+
+**Online Content**: https://algs4.cs.princeton.edu/home/
+
+including
+1. Web Resources
+2. FAQ
+3. Data
+4. Code
+5. Errata
+6. Lectures
+7. Cheatsheet
+8. References
+9. Programming Assignments
 
 ### Algorithms I
 
