@@ -6,7 +6,7 @@ which can be downloaded from [here](https://algs4.cs.princeton.edu/code/).
 
 I have downloaded the jar file and put it in the `library` folder.
 
-The unzipped folder can also be found.
+The unzipped folder can also be found from the [website](https://github.com/kevin-wayne/algs4/tree/master/src/main/java/edu/princeton/cs/algs4) in the [GitHub repository](https://github.com/kevin-wayne/algs4).
 
 Or one can unzip the jar file using 
 
